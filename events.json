@@ -3,6 +3,48 @@
   "updatedAt": "2026-09-26",
   "events": [
     {
+      "id": "wwpw-sf-chinatown-2026-10",
+      "title": "Adobe Photo Walk: The Glammas of SF Chinatown",
+      "category": "photoWalk",
+      "organizer": "Scott Kelby's Worldwide Photo Walk",
+      "city": "San Francisco, CA",
+      "venue": "Clarion Performing Arts Center, 2 Waverly Pl",
+      "summary": "An editorial portrait photo walk through San Francisco's Chinatown with the Grant Avenue Follies.",
+      "startDate": "2026-10-03",
+      "endDateExclusive": "2026-10-04",
+      "sourceURL": "https://worldwidephotowalk.com/walk/the-glammas-of-sf-chinatown-an-fashion-editorial-portrait-experience/",
+      "verifiedOn": "2026-09-26",
+      "timeZoneIdentifier": "America/Los_Angeles"
+    },
+    {
+      "id": "wwpw-columbus-scioto-2026-10",
+      "title": "Scioto Mile Photo Walk",
+      "category": "photoWalk",
+      "organizer": "Scott Kelby's Worldwide Photo Walk",
+      "city": "Columbus, OH",
+      "venue": "Bicentennial Park Amphitheater",
+      "summary": "An evening photo walk along the Scioto Mile for cityscapes and reflections.",
+      "startDate": "2026-10-03",
+      "endDateExclusive": "2026-10-04",
+      "sourceURL": "https://worldwidephotowalk.com/walk/scioto-mile-photowalk/",
+      "verifiedOn": "2026-09-26",
+      "timeZoneIdentifier": "America/New_York"
+    },
+    {
+      "id": "wwpw-el-paso-peep-2026-10",
+      "title": "PEEP Photo Walk 2026",
+      "category": "photoWalk",
+      "organizer": "Scott Kelby's Worldwide Photo Walk",
+      "city": "El Paso, TX",
+      "venue": "Los Lagartos statue, downtown El Paso",
+      "summary": "A dusk photography walk through downtown El Paso, open to all experience levels.",
+      "startDate": "2026-10-03",
+      "endDateExclusive": "2026-10-04",
+      "sourceURL": "https://worldwidephotowalk.com/walk/peep-photowalk-2026/",
+      "verifiedOn": "2026-09-26",
+      "timeZoneIdentifier": "America/Denver"
+    },
+    {
       "id": "wwpw-greenville-falls-2026-10",
       "title": "Greenville Falls Park Photo Walk",
       "category": "photoWalk",
