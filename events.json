@@ -1,20 +1,48 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12",
+  "updatedAt": "2026-10-19",
   "events": [
     {
-      "id": "fujikina-nyc-2026-10",
-      "title": "FUJIKINA NYC 2026",
+      "id": "cnpa-blue-ridge-fall-color-2026-10",
+      "title": "CNPA Blue Ridge Fall Color Outing",
+      "category": "photoWalk",
+      "organizer": "Carolina Nature Photographers Association",
+      "city": "Boone, NC",
+      "venue": "Boone/Blowing Rock area; exact meeting place not yet posted by organizer",
+      "summary": "A guided fall-color landscape photography outing in the Blue Ridge area.",
+      "startDate": "2026-10-26",
+      "endDateExclusive": "2026-10-27",
+      "sourceURL": "https://cnpa.org/events",
+      "timeZoneIdentifier": "America/New_York",
+      "verifiedOn": "2026-10-19"
+    },
+    {
+      "id": "photocon-okc-2026-10",
+      "title": "PhotoCon OKC 2026",
       "category": "expo",
-      "organizer": "FUJIFILM North America",
-      "city": "New York, NY",
-      "venue": "Multiple venues across the Lower East Side; see organizer schedule for activity meeting places",
-      "summary": "A photography festival with exhibitions, photo walks, workshops, talks, and hands-on camera experiences.",
-      "startDate": "2026-10-16",
-      "endDateExclusive": "2026-10-19",
-      "sourceURL": "https://shopusa.fujifilm-x.com/fujikina/",
-      "verifiedOn": "2026-10-12",
-      "timeZoneIdentifier": "America/New_York"
+      "organizer": "Bedford Camera & Video",
+      "city": "Oklahoma City, OK",
+      "venue": "Embassy Suites Hotel, 3233 Northwest Expressway, Oklahoma City, OK 73112",
+      "summary": "A photography convention with speakers, interactive trade show, gear demonstrations, live shoots, and photo walks.",
+      "startDate": "2026-10-29",
+      "endDateExclusive": "2026-11-01",
+      "sourceURL": "https://www.photoconokc.com/",
+      "timeZoneIdentifier": "America/Chicago",
+      "verifiedOn": "2026-10-19"
+    },
+    {
+      "id": "cnpa-table-rock-2026-11",
+      "title": "CNPA Table Rock State Park Outing",
+      "category": "photoWalk",
+      "organizer": "Carolina Nature Photographers Association",
+      "city": "Pickens, SC",
+      "venue": "Visitor Center by Lake Oolenoy, Table Rock State Park, 158 E Ellison Lane",
+      "summary": "A morning nature photography outing focused on fall foliage at Table Rock State Park.",
+      "startDate": "2026-11-06",
+      "endDateExclusive": "2026-11-07",
+      "sourceURL": "https://cnpa.org/events",
+      "timeZoneIdentifier": "America/New_York",
+      "verifiedOn": "2026-10-19"
     },
     {
       "id": "atlanta-photojournalism-seminar-2026-11",
@@ -27,7 +55,7 @@
       "startDate": "2026-11-13",
       "endDateExclusive": "2026-11-15",
       "sourceURL": "https://www.photojournalism.org/dates-and-location",
-      "verifiedOn": "2026-10-12",
+      "verifiedOn": "2026-10-19",
       "timeZoneIdentifier": "America/New_York"
     },
     {
@@ -41,7 +69,7 @@
       "startDate": "2026-12-07",
       "endDateExclusive": "2026-12-12",
       "sourceURL": "https://www.jerryghionisworkshops.com/workshops/p/las-vegas-nv-november",
-      "verifiedOn": "2026-10-12",
+      "verifiedOn": "2026-10-19",
       "timeZoneIdentifier": "America/Los_Angeles"
     },
     {
@@ -55,7 +83,7 @@
       "startDate": "2027-01-30",
       "endDateExclusive": "2027-01-31",
       "sourceURL": "https://www.photopalooza.events/charlotte-nc",
-      "verifiedOn": "2026-10-12",
+      "verifiedOn": "2026-10-19",
       "timeZoneIdentifier": "America/New_York"
     },
     {
@@ -69,7 +97,7 @@
       "startDate": "2027-01-31",
       "endDateExclusive": "2027-02-03",
       "sourceURL": "https://www.ppa.com/events/imaging-usa",
-      "verifiedOn": "2026-10-12",
+      "verifiedOn": "2026-10-19",
       "timeZoneIdentifier": "America/New_York"
     },
     {
@@ -83,7 +111,7 @@
       "startDate": "2027-02-04",
       "endDateExclusive": "2027-02-08",
       "sourceURL": "https://cnpa.org/yearly/2027-convention/about",
-      "verifiedOn": "2026-10-12",
+      "verifiedOn": "2026-10-19",
       "timeZoneIdentifier": "America/New_York"
     },
     {
@@ -97,7 +125,7 @@
       "startDate": "2027-02-08",
       "endDateExclusive": "2027-02-11",
       "sourceURL": "https://photoboothexpo.com/",
-      "verifiedOn": "2026-10-12",
+      "verifiedOn": "2026-10-19",
       "timeZoneIdentifier": "America/Los_Angeles"
     },
     {
@@ -111,7 +139,7 @@
       "startDate": "2027-02-19",
       "endDateExclusive": "2027-02-21",
       "sourceURL": "https://www.atpi.org/upcoming/",
-      "verifiedOn": "2026-10-12",
+      "verifiedOn": "2026-10-19",
       "timeZoneIdentifier": "America/Chicago"
     },
     {
@@ -125,7 +153,7 @@
       "startDate": "2027-02-19",
       "endDateExclusive": "2027-02-23",
       "sourceURL": "https://www.syncrocks.com/",
-      "verifiedOn": "2026-10-12",
+      "verifiedOn": "2026-10-19",
       "timeZoneIdentifier": "America/Chicago"
     },
     {
@@ -139,7 +167,7 @@
       "startDate": "2027-02-28",
       "endDateExclusive": "2027-03-01",
       "sourceURL": "https://www.photopalooza.events/events",
-      "verifiedOn": "2026-10-12",
+      "verifiedOn": "2026-10-19",
       "timeZoneIdentifier": "America/Los_Angeles"
     },
     {
@@ -153,7 +181,7 @@
       "startDate": "2027-02-28",
       "endDateExclusive": "2027-03-05",
       "sourceURL": "https://wppiexpo.com/conference/agenda-at-a-glance/",
-      "verifiedOn": "2026-10-12",
+      "verifiedOn": "2026-10-19",
       "timeZoneIdentifier": "America/Los_Angeles"
     },
     {
@@ -167,7 +195,7 @@
       "startDate": "2027-04-13",
       "endDateExclusive": "2027-04-16",
       "sourceURL": "https://shutterfest.com/register/",
-      "verifiedOn": "2026-10-12",
+      "verifiedOn": "2026-10-19",
       "timeZoneIdentifier": "America/Chicago"
     },
     {
@@ -181,8 +209,22 @@
       "startDate": "2027-05-14",
       "endDateExclusive": "2027-05-17",
       "sourceURL": "https://www.sharontenenbaum.com/chicago-2027",
-      "verifiedOn": "2026-10-12",
+      "verifiedOn": "2026-10-19",
       "timeZoneIdentifier": "America/Chicago"
+    },
+    {
+      "id": "photocon-kc-2027-05",
+      "title": "PhotoCon KC 2027",
+      "category": "expo",
+      "organizer": "Bedford Camera & Video",
+      "city": "Overland Park, KS",
+      "venue": "Overland Park Convention Center",
+      "summary": "A photography convention with speakers, trade show, gear demos, models, and photo walks.",
+      "startDate": "2027-05-20",
+      "endDateExclusive": "2027-05-23",
+      "sourceURL": "https://www.photoconkc.com/",
+      "timeZoneIdentifier": "America/Chicago",
+      "verifiedOn": "2026-10-19"
     },
     {
       "id": "bild-expo-nyc-2027-05",
@@ -195,8 +237,22 @@
       "startDate": "2027-05-25",
       "endDateExclusive": "2027-05-27",
       "sourceURL": "https://www.bildexpo.com/2027/about",
-      "verifiedOn": "2026-10-12",
+      "verifiedOn": "2026-10-19",
       "timeZoneIdentifier": "America/New_York"
+    },
+    {
+      "id": "photocon-ladies-eureka-springs-2027-06",
+      "title": "PhotoCon Ladies Edition 2027",
+      "category": "workshop",
+      "organizer": "Bedford Camera & Video",
+      "city": "Eureka Springs, AR",
+      "venue": "Meeting place not yet posted by organizer",
+      "summary": "A women-focused photography event with hands-on workshops, live shoots, critiques, and business education.",
+      "startDate": "2027-06-03",
+      "endDateExclusive": "2027-06-06",
+      "sourceURL": "https://www.bedfords.com/upcoming-expos/",
+      "timeZoneIdentifier": "America/Chicago",
+      "verifiedOn": "2026-10-19"
     }
   ]
 }
