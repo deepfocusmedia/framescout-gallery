@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-26",
   "events": [
     {
       "id": "cnpa-blue-ridge-fall-color-2026-10",
@@ -14,7 +14,7 @@
       "endDateExclusive": "2026-10-27",
       "sourceURL": "https://cnpa.org/events",
       "timeZoneIdentifier": "America/New_York",
-      "verifiedOn": "2026-10-19"
+      "verifiedOn": "2026-10-26"
     },
     {
       "id": "photocon-okc-2026-10",
@@ -28,7 +28,7 @@
       "endDateExclusive": "2026-11-01",
       "sourceURL": "https://www.photoconokc.com/",
       "timeZoneIdentifier": "America/Chicago",
-      "verifiedOn": "2026-10-19"
+      "verifiedOn": "2026-10-26"
     },
     {
       "id": "cnpa-table-rock-2026-11",
@@ -42,7 +42,7 @@
       "endDateExclusive": "2026-11-07",
       "sourceURL": "https://cnpa.org/events",
       "timeZoneIdentifier": "America/New_York",
-      "verifiedOn": "2026-10-19"
+      "verifiedOn": "2026-10-26"
     },
     {
       "id": "atlanta-photojournalism-seminar-2026-11",
@@ -55,7 +55,7 @@
       "startDate": "2026-11-13",
       "endDateExclusive": "2026-11-15",
       "sourceURL": "https://www.photojournalism.org/dates-and-location",
-      "verifiedOn": "2026-10-19",
+      "verifiedOn": "2026-10-26",
       "timeZoneIdentifier": "America/New_York"
     },
     {
@@ -69,7 +69,7 @@
       "startDate": "2026-12-07",
       "endDateExclusive": "2026-12-12",
       "sourceURL": "https://www.jerryghionisworkshops.com/workshops/p/las-vegas-nv-november",
-      "verifiedOn": "2026-10-19",
+      "verifiedOn": "2026-10-26",
       "timeZoneIdentifier": "America/Los_Angeles"
     },
     {
@@ -83,7 +83,7 @@
       "startDate": "2027-01-30",
       "endDateExclusive": "2027-01-31",
       "sourceURL": "https://www.photopalooza.events/charlotte-nc",
-      "verifiedOn": "2026-10-19",
+      "verifiedOn": "2026-10-26",
       "timeZoneIdentifier": "America/New_York"
     },
     {
@@ -97,7 +97,7 @@
       "startDate": "2027-01-31",
       "endDateExclusive": "2027-02-03",
       "sourceURL": "https://www.ppa.com/events/imaging-usa",
-      "verifiedOn": "2026-10-19",
+      "verifiedOn": "2026-10-26",
       "timeZoneIdentifier": "America/New_York"
     },
     {
@@ -111,7 +111,7 @@
       "startDate": "2027-02-04",
       "endDateExclusive": "2027-02-08",
       "sourceURL": "https://cnpa.org/yearly/2027-convention/about",
-      "verifiedOn": "2026-10-19",
+      "verifiedOn": "2026-10-26",
       "timeZoneIdentifier": "America/New_York"
     },
     {
@@ -125,7 +125,7 @@
       "startDate": "2027-02-08",
       "endDateExclusive": "2027-02-11",
       "sourceURL": "https://photoboothexpo.com/",
-      "verifiedOn": "2026-10-19",
+      "verifiedOn": "2026-10-26",
       "timeZoneIdentifier": "America/Los_Angeles"
     },
     {
@@ -139,7 +139,7 @@
       "startDate": "2027-02-19",
       "endDateExclusive": "2027-02-21",
       "sourceURL": "https://www.atpi.org/upcoming/",
-      "verifiedOn": "2026-10-19",
+      "verifiedOn": "2026-10-26",
       "timeZoneIdentifier": "America/Chicago"
     },
     {
@@ -153,7 +153,7 @@
       "startDate": "2027-02-19",
       "endDateExclusive": "2027-02-23",
       "sourceURL": "https://www.syncrocks.com/",
-      "verifiedOn": "2026-10-19",
+      "verifiedOn": "2026-10-26",
       "timeZoneIdentifier": "America/Chicago"
     },
     {
@@ -167,7 +167,7 @@
       "startDate": "2027-02-28",
       "endDateExclusive": "2027-03-01",
       "sourceURL": "https://www.photopalooza.events/events",
-      "verifiedOn": "2026-10-19",
+      "verifiedOn": "2026-10-26",
       "timeZoneIdentifier": "America/Los_Angeles"
     },
     {
@@ -181,8 +181,36 @@
       "startDate": "2027-02-28",
       "endDateExclusive": "2027-03-05",
       "sourceURL": "https://wppiexpo.com/conference/agenda-at-a-glance/",
-      "verifiedOn": "2026-10-19",
+      "verifiedOn": "2026-10-26",
       "timeZoneIdentifier": "America/Los_Angeles"
+    },
+    {
+      "id": "reset-panama-city-beach-2027-03",
+      "title": "The Reset Photography Conference 2027",
+      "category": "workshop",
+      "organizer": "The Reset Conference",
+      "city": "Panama City Beach, FL",
+      "venue": "Embassy Suites resort, Panama City Beach",
+      "summary": "A photography conference on creative and business growth; the main conference is March 1-2, with optional styled shoots March 3.",
+      "startDate": "2027-03-01",
+      "endDateExclusive": "2027-03-04",
+      "sourceURL": "https://theresetconference.com/",
+      "verifiedOn": "2026-10-26",
+      "timeZoneIdentifier": "America/Chicago"
+    },
+    {
+      "id": "ppi-focus-forward-amana-2027-03",
+      "title": "Focus Forward 2027",
+      "category": "expo",
+      "organizer": "Professional Photographers of Iowa",
+      "city": "Amana, IA",
+      "venue": "Hotel Millwright",
+      "summary": "The Professional Photographers of Iowa annual convention with photography education, networking, and creative sessions.",
+      "startDate": "2027-03-05",
+      "endDateExclusive": "2027-03-09",
+      "sourceURL": "https://www.ppiowa.com/PPI-Focus-Forward",
+      "verifiedOn": "2026-10-26",
+      "timeZoneIdentifier": "America/Chicago"
     },
     {
       "id": "shutterfest-st-louis-2027-04",
@@ -195,7 +223,7 @@
       "startDate": "2027-04-13",
       "endDateExclusive": "2027-04-16",
       "sourceURL": "https://shutterfest.com/register/",
-      "verifiedOn": "2026-10-19",
+      "verifiedOn": "2026-10-26",
       "timeZoneIdentifier": "America/Chicago"
     },
     {
@@ -209,7 +237,7 @@
       "startDate": "2027-05-14",
       "endDateExclusive": "2027-05-17",
       "sourceURL": "https://www.sharontenenbaum.com/chicago-2027",
-      "verifiedOn": "2026-10-19",
+      "verifiedOn": "2026-10-26",
       "timeZoneIdentifier": "America/Chicago"
     },
     {
@@ -224,7 +252,7 @@
       "endDateExclusive": "2027-05-23",
       "sourceURL": "https://www.photoconkc.com/",
       "timeZoneIdentifier": "America/Chicago",
-      "verifiedOn": "2026-10-19"
+      "verifiedOn": "2026-10-26"
     },
     {
       "id": "bild-expo-nyc-2027-05",
@@ -237,7 +265,7 @@
       "startDate": "2027-05-25",
       "endDateExclusive": "2027-05-27",
       "sourceURL": "https://www.bildexpo.com/2027/about",
-      "verifiedOn": "2026-10-19",
+      "verifiedOn": "2026-10-26",
       "timeZoneIdentifier": "America/New_York"
     },
     {
@@ -252,7 +280,7 @@
       "endDateExclusive": "2027-06-06",
       "sourceURL": "https://www.bedfords.com/upcoming-expos/",
       "timeZoneIdentifier": "America/Chicago",
-      "verifiedOn": "2026-10-19"
+      "verifiedOn": "2026-10-26"
     }
   ]
 }
