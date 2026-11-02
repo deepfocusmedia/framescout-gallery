@@ -1,35 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26",
+  "updatedAt": "2026-11-02",
   "events": [
-    {
-      "id": "cnpa-blue-ridge-fall-color-2026-10",
-      "title": "CNPA Blue Ridge Fall Color Outing",
-      "category": "photoWalk",
-      "organizer": "Carolina Nature Photographers Association",
-      "city": "Boone, NC",
-      "venue": "Boone/Blowing Rock area; exact meeting place not yet posted by organizer",
-      "summary": "A guided fall-color landscape photography outing in the Blue Ridge area.",
-      "startDate": "2026-10-26",
-      "endDateExclusive": "2026-10-27",
-      "sourceURL": "https://cnpa.org/events",
-      "timeZoneIdentifier": "America/New_York",
-      "verifiedOn": "2026-10-26"
-    },
-    {
-      "id": "photocon-okc-2026-10",
-      "title": "PhotoCon OKC 2026",
-      "category": "expo",
-      "organizer": "Bedford Camera & Video",
-      "city": "Oklahoma City, OK",
-      "venue": "Embassy Suites Hotel, 3233 Northwest Expressway, Oklahoma City, OK 73112",
-      "summary": "A photography convention with speakers, interactive trade show, gear demonstrations, live shoots, and photo walks.",
-      "startDate": "2026-10-29",
-      "endDateExclusive": "2026-11-01",
-      "sourceURL": "https://www.photoconokc.com/",
-      "timeZoneIdentifier": "America/Chicago",
-      "verifiedOn": "2026-10-26"
-    },
     {
       "id": "cnpa-table-rock-2026-11",
       "title": "CNPA Table Rock State Park Outing",
@@ -42,7 +14,7 @@
       "endDateExclusive": "2026-11-07",
       "sourceURL": "https://cnpa.org/events",
       "timeZoneIdentifier": "America/New_York",
-      "verifiedOn": "2026-10-26"
+      "verifiedOn": "2026-11-02"
     },
     {
       "id": "atlanta-photojournalism-seminar-2026-11",
@@ -55,7 +27,7 @@
       "startDate": "2026-11-13",
       "endDateExclusive": "2026-11-15",
       "sourceURL": "https://www.photojournalism.org/dates-and-location",
-      "verifiedOn": "2026-10-26",
+      "verifiedOn": "2026-11-02",
       "timeZoneIdentifier": "America/New_York"
     },
     {
@@ -68,8 +40,8 @@
       "summary": "A five-day portrait and wedding photography workshop covering posing, lighting, composition, and technique.",
       "startDate": "2026-12-07",
       "endDateExclusive": "2026-12-12",
-      "sourceURL": "https://www.jerryghionisworkshops.com/workshops/p/las-vegas-nv-november",
-      "verifiedOn": "2026-10-26",
+      "sourceURL": "https://www.jerryghionisworkshops.com/workshops",
+      "verifiedOn": "2026-11-02",
       "timeZoneIdentifier": "America/Los_Angeles"
     },
     {
@@ -83,7 +55,7 @@
       "startDate": "2027-01-30",
       "endDateExclusive": "2027-01-31",
       "sourceURL": "https://www.photopalooza.events/charlotte-nc",
-      "verifiedOn": "2026-10-26",
+      "verifiedOn": "2026-11-02",
       "timeZoneIdentifier": "America/New_York"
     },
     {
@@ -97,7 +69,7 @@
       "startDate": "2027-01-31",
       "endDateExclusive": "2027-02-03",
       "sourceURL": "https://www.ppa.com/events/imaging-usa",
-      "verifiedOn": "2026-10-26",
+      "verifiedOn": "2026-11-02",
       "timeZoneIdentifier": "America/New_York"
     },
     {
@@ -111,7 +83,7 @@
       "startDate": "2027-02-04",
       "endDateExclusive": "2027-02-08",
       "sourceURL": "https://cnpa.org/yearly/2027-convention/about",
-      "verifiedOn": "2026-10-26",
+      "verifiedOn": "2026-11-02",
       "timeZoneIdentifier": "America/New_York"
     },
     {
@@ -125,7 +97,7 @@
       "startDate": "2027-02-08",
       "endDateExclusive": "2027-02-11",
       "sourceURL": "https://photoboothexpo.com/",
-      "verifiedOn": "2026-10-26",
+      "verifiedOn": "2026-11-02",
       "timeZoneIdentifier": "America/Los_Angeles"
     },
     {
@@ -139,7 +111,7 @@
       "startDate": "2027-02-19",
       "endDateExclusive": "2027-02-21",
       "sourceURL": "https://www.atpi.org/upcoming/",
-      "verifiedOn": "2026-10-26",
+      "verifiedOn": "2026-11-02",
       "timeZoneIdentifier": "America/Chicago"
     },
     {
@@ -153,7 +125,7 @@
       "startDate": "2027-02-19",
       "endDateExclusive": "2027-02-23",
       "sourceURL": "https://www.syncrocks.com/",
-      "verifiedOn": "2026-10-26",
+      "verifiedOn": "2026-11-02",
       "timeZoneIdentifier": "America/Chicago"
     },
     {
@@ -167,7 +139,7 @@
       "startDate": "2027-02-28",
       "endDateExclusive": "2027-03-01",
       "sourceURL": "https://www.photopalooza.events/events",
-      "verifiedOn": "2026-10-26",
+      "verifiedOn": "2026-11-02",
       "timeZoneIdentifier": "America/Los_Angeles"
     },
     {
@@ -181,7 +153,7 @@
       "startDate": "2027-02-28",
       "endDateExclusive": "2027-03-05",
       "sourceURL": "https://wppiexpo.com/conference/agenda-at-a-glance/",
-      "verifiedOn": "2026-10-26",
+      "verifiedOn": "2026-11-02",
       "timeZoneIdentifier": "America/Los_Angeles"
     },
     {
@@ -195,7 +167,7 @@
       "startDate": "2027-03-01",
       "endDateExclusive": "2027-03-04",
       "sourceURL": "https://theresetconference.com/",
-      "verifiedOn": "2026-10-26",
+      "verifiedOn": "2026-11-02",
       "timeZoneIdentifier": "America/Chicago"
     },
     {
@@ -209,8 +181,22 @@
       "startDate": "2027-03-05",
       "endDateExclusive": "2027-03-09",
       "sourceURL": "https://www.ppiowa.com/PPI-Focus-Forward",
-      "verifiedOn": "2026-10-26",
+      "verifiedOn": "2026-11-02",
       "timeZoneIdentifier": "America/Chicago"
+    },
+    {
+      "id": "out-of-merritt-island-cocoa-beach-2027-03",
+      "title": "Out of Merritt Island 2027",
+      "category": "workshop",
+      "organizer": "Out of Chicago",
+      "city": "Cocoa Beach, FL",
+      "venue": "Hilton Garden Inn Cocoa Beach Oceanfront; field sessions at Merritt Island National Wildlife Refuge",
+      "summary": "A five-day bird and wildlife photography conference with guided field sessions and classroom instruction.",
+      "startDate": "2027-03-15",
+      "endDateExclusive": "2027-03-20",
+      "sourceURL": "https://www.outofchicago.com/conference/out-of-merritt-island-2027/",
+      "verifiedOn": "2026-11-02",
+      "timeZoneIdentifier": "America/New_York"
     },
     {
       "id": "shutterfest-st-louis-2027-04",
@@ -223,7 +209,7 @@
       "startDate": "2027-04-13",
       "endDateExclusive": "2027-04-16",
       "sourceURL": "https://shutterfest.com/register/",
-      "verifiedOn": "2026-10-26",
+      "verifiedOn": "2026-11-02",
       "timeZoneIdentifier": "America/Chicago"
     },
     {
@@ -237,7 +223,7 @@
       "startDate": "2027-05-14",
       "endDateExclusive": "2027-05-17",
       "sourceURL": "https://www.sharontenenbaum.com/chicago-2027",
-      "verifiedOn": "2026-10-26",
+      "verifiedOn": "2026-11-02",
       "timeZoneIdentifier": "America/Chicago"
     },
     {
@@ -252,7 +238,7 @@
       "endDateExclusive": "2027-05-23",
       "sourceURL": "https://www.photoconkc.com/",
       "timeZoneIdentifier": "America/Chicago",
-      "verifiedOn": "2026-10-26"
+      "verifiedOn": "2026-11-02"
     },
     {
       "id": "bild-expo-nyc-2027-05",
@@ -265,7 +251,7 @@
       "startDate": "2027-05-25",
       "endDateExclusive": "2027-05-27",
       "sourceURL": "https://www.bildexpo.com/2027/about",
-      "verifiedOn": "2026-10-26",
+      "verifiedOn": "2026-11-02",
       "timeZoneIdentifier": "America/New_York"
     },
     {
@@ -274,13 +260,27 @@
       "category": "workshop",
       "organizer": "Bedford Camera & Video",
       "city": "Eureka Springs, AR",
-      "venue": "Meeting place not yet posted by organizer",
+      "venue": "Best Western Inn of the Ozarks",
       "summary": "A women-focused photography event with hands-on workshops, live shoots, critiques, and business education.",
       "startDate": "2027-06-03",
       "endDateExclusive": "2027-06-06",
-      "sourceURL": "https://www.bedfords.com/upcoming-expos/",
+      "sourceURL": "https://www.bedfords.com/photoconle-2027",
       "timeZoneIdentifier": "America/Chicago",
-      "verifiedOn": "2026-10-26"
+      "verifiedOn": "2026-11-02"
+    },
+    {
+      "id": "photocon-ozk-fayetteville-2027-07",
+      "title": "PhotoCon OZK 2027",
+      "category": "expo",
+      "organizer": "Bedford Camera & Video",
+      "city": "Fayetteville, AR",
+      "venue": "Graduate Hotel Fayetteville",
+      "summary": "A photography convention in Northwest Arkansas with education, creative sessions, and community events.",
+      "startDate": "2027-07-29",
+      "endDateExclusive": "2027-08-01",
+      "sourceURL": "https://www.bedfords.com/nwa-class-schedule-old/",
+      "verifiedOn": "2026-11-02",
+      "timeZoneIdentifier": "America/Chicago"
     }
   ]
 }
